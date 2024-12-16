@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+#circle .all {
+  display: flex;
+  justify-content: center;
+  margin-top: 6rem;
+  background-color: blanchedalmond;
+}
+#circle .all .th,td {
+  border: 1px solid;
+  text-align: center;
+  width: 500px;
+  height: 20px;
+  font-size: x-large;
+}
+#circle .all table {
+  border-collapse: collapse;
+}
